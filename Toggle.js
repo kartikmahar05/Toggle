@@ -7,6 +7,7 @@ var circle = document.querySelector("#circle");
 document.getElementById("toggle").onclick = function () {
         
     
+    
     if(!toggled) {
         
         hTag.classList.add("color-white");
